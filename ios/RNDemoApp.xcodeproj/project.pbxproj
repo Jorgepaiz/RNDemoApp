@@ -863,8 +863,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.jorgepaiz.RNDemoApp;
 				PRODUCT_NAME = RNDemoApp;
-				PROVISIONING_PROFILE = "aaeb49c1-496c-4312-9aeb-a0763d39eaa5";
-				PROVISIONING_PROFILE_SPECIFIER = Research;
+				PROVISIONING_PROFILE = "efddd8c9-bc75-4c22-9b5c-956bc537bea2";
+				PROVISIONING_PROFILE_SPECIFIER = "React Native Demo App";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -886,8 +886,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.jorgepaiz.RNDemoApp;
 				PRODUCT_NAME = RNDemoApp;
-				PROVISIONING_PROFILE = "aaeb49c1-496c-4312-9aeb-a0763d39eaa5";
-				PROVISIONING_PROFILE_SPECIFIER = Research;
+				PROVISIONING_PROFILE = "efddd8c9-bc75-4c22-9b5c-956bc537bea2";
+				PROVISIONING_PROFILE_SPECIFIER = "React Native Demo App";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
